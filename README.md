@@ -1,2 +1,2 @@
 # Calculator
-Financial Calculator
+Financial Calculator developed using C#
